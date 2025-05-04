@@ -1,3 +1,9 @@
+.u-blog-post{
+  border-radius: 5% 0 5% 5%;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+
 .u-section-1 .u-sheet-1 {
   min-height: 561px;
 }
@@ -44,6 +50,7 @@
 
 .u-section-1 .u-container-layout-2 {
   padding: 30px 20px;
+  border-radius: 10% 0 10% 10%;
 }
 
 .u-section-1 .u-text-3 {

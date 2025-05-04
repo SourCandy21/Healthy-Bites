@@ -18177,8 +18177,9 @@ div.u-video,
 }
 .menu-collapse .u-nav-link {
   text-decoration: none !important;
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 290px;
   font-size: calc(1em + 8px);
 }
 .menu-collapse .u-nav-link svg {
